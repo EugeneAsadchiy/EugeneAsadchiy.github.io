@@ -1,0 +1,19 @@
+{
+   "all_messages": [
+      {
+         "sender": "Mike",
+         "text": "hello",
+         "time": "23:56"
+      },
+      {
+         "sender": "Zhenya",
+         "text": "hi",
+         "time": "23:56"
+      },
+      {
+         "sender": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+         "text": "heelo world",
+         "time": "00:06"
+      }
+   ]
+}
